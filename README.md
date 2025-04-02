@@ -1,5 +1,5 @@
 # Adeventure_Works
-<img src="" width=1000>
+<img src="Dashboard.png" width=1000>
 # AdventureWorks Power BI Project
 
 ## Overview
