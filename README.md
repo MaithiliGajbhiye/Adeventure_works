@@ -49,13 +49,13 @@ Bing Maps & OpenStreetMap for geographic data representation
 
 ## How to Use the Dashboard
 
-Filter Options: Users can interact with filters to refine data views by year, quarter, product, or region.
+1. Filter Options: Users can interact with filters to refine data views by year, quarter, product, or region.
 
-KPIs Overview: The top section of the dashboard provides a quick summary of financial and operational performance.
+2. KPIs Overview: The top section of the dashboard provides a quick summary of financial and operational performance.
 
-Product Performance: Identify top revenue-generating and high-return products.
+3. Product Performance: Identify top revenue-generating and high-return products.
 
-Geographic Trends: Evaluate which regions contribute the most to sales.
+4. Geographic Trends: Evaluate which regions contribute the most to sales.
 
 ## Future Enhancements
 
