@@ -1,4 +1,4 @@
-# Adeventure_Works
+# Adeventure_Works_Dashboard
 <img src="Dashboard.png" width=1000>
 
 # AdventureWorks Power BI Project
